@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chemistry</string>
+    <string name="main_search_hint">Find a formula...</string>
+
+    <string name="dialog_add_title">Add a formula</string>
+    <string name="dialog_add_name">Enter name:</string>
+    <string name="dialog_add_text">Enter formula text:</string>
+    <string name="dialog_add_button_cancel">Cancel</string>
+    <string name="dialog_add_button_confirm">OK</string>
+</resources>
